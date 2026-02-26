@@ -220,17 +220,3 @@ For any bases $a$ and $b > 1$:
 $$\log_a n = \Theta(\log_b n)$$
 
 All logarithms have the same asymptotic growth, so we typically write just $O(\log n)$ without specifying the base.
-
----
-
-# Summary
-
-Algorithm analysis focuses on understanding how running time scales with input size:
-
-- **Big-O**: Upper bound, typically used for worst-case analysis
-- **Big-Omega**: Lower bound, typically used for best-case analysis  
-- **Big-Theta**: Tight bound, when best and worst cases coincide
-- **Constant factors and lower-order terms**: Ignored in asymptotic analysis
-- **Growth hierarchy**: logarithmic < polynomial < exponential
-- **Recurrence relations**: Tool for analyzing recursive algorithms
-- **Experimental verification**: Doubling technique confirms theoretical bounds
