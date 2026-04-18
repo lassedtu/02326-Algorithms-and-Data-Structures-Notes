@@ -419,3 +419,27 @@ impl<T> StackDoubling<T> {
 ### Global Rebuilding
 Dynamic arrays are a prime example of a technique called **global rebuilding**. This technique is used to make static data structures (like fixed-size arrays) dynamic by periodically rebuilding the entire structure into a larger (or smaller) one when its capacity is exhausted or underutilized.
 
+#### Typical Rebuilding Policy
+-   **Grow**: If the array is full, allocate a new array with double capacity and copy all elements.
+-   **Shrink**: If the number of elements drops below one quarter of capacity, allocate a new array with half capacity and copy all elements.
+
+This policy avoids frequent rebuilds while keeping wasted space bounded.
+
+#### Why Not Shrink at Half-Full?
+If we shrink immediately when usage drops below half, alternating between PUSH and POP near the threshold can trigger repeated grow/shrink operations, leading to poor performance.
+
+Using separate thresholds (grow at full, shrink at quarter-full) introduces **hysteresis**, which prevents this oscillation.
+
+#### Amortized Analysis Intuition
+-   Most operations (PUSH/POP without resize) take O(1) time.
+-   Occasionally, one operation triggers a rebuild and costs O(n) due to copying.
+-   Across a long sequence of operations, rebuild costs are spread out.
+
+Therefore:
+-   **Amortized time per operation**: O(1)
+-   **Total time for n operations**: O(n)
+-   **Space usage**: O(n)
+
+#### Key Takeaway
+Global rebuilding is a general design technique: accept rare expensive rebuilds in exchange for fast average performance and simple implementations.
+
