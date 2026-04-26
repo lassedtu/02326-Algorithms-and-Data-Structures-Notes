@@ -4,6 +4,8 @@ These are my personal notes for the course **02326 Algorithms and Data Structure
 
 These notes are structured for use with [Obsidian](https://obsidian.md/), a free note taking app. You can use them as a regular folder of Markdown files, but using Obsidian is recommended for better navigation and linking between notes.
 
+> Note: I will not be adding the rest of the lecture notes due to pressure in regards to time (studying for exams), however, every idea discussed in each lecture will be available in the atomic notes
+
 ## Getting Started
 
 You have two main options for using these notes:
