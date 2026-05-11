@@ -13,7 +13,7 @@ Core operations:
 
 ## Applications
 - Scheduling and event handling
-- Shortest paths in graphs (Dijkstra's algorithm)
+- Shortest paths in [[graphs]] (Dijkstra's algorithm)
 - [[Minimum Spanning Tree (MST)]] (Prim's algorithm)
 - Compression (Huffman's algorithm)
 

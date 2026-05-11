@@ -61,7 +61,7 @@ Both satisfy the ADT contract, but with different practical behavior and constan
 - Implicit data structure:
   - uses the arrangement of elements to encode structure, rather than storing full pointer links explicitly
   - typically array-based
-  - example: binary heap in an array, where parent/child relations are derived from indices
+  - example: binary [[Heaps|heap]] in an array, where parent/child relations are derived from indices
 - Explicit data structure:
   - stores structure directly using references or pointers
   - typically node-based

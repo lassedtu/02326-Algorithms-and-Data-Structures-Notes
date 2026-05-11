@@ -79,11 +79,11 @@ So the total running time depends on the priority queue implementation:
 
 Using $n=|V|$ and $m=|E|$:
 
-| Priority queue | INSERT           | EXTRACT-MIN           | DECREASE-KEY     | Total            |
-| -------------- | ---------------- | --------------------- | ---------------- | ---------------- |
-| Array          | $O(1)$           | $O(n)$                | $O(1)$           | $O(n^2)$         |
-| Binary heap    | $O(\log n)$      | $O(\log n)$           | $O(\log n)$      | $O(m \log n)$    |
-| Fibonacci heap | $O(1)$ amortized | $O(\log n)$ amortized | $O(1)$ amortized | $O(m + n\log n)$ |
+| Priority queue            | INSERT           | EXTRACT-MIN           | DECREASE-KEY     | Total            |
+| ------------------------- | ---------------- | --------------------- | ---------------- | ---------------- |
+| Array                     | $O(1)$           | $O(n)$                | $O(1)$           | $O(n^2)$         |
+| Binary [[Heaps\|heap]]    | $O(\log n)$      | $O(\log n)$           | $O(\log n)$      | $O(m \log n)$    |
+| Fibonacci [[Heaps\|heap]] | $O(1)$ amortized | $O(\log n)$ amortized | $O(1)$ amortized | $O(m + n\log n)$ |
 
 In practice, binary heaps are often preferred due to good constant factors and simpler implementation.
 # Kruskal's Algorithm
