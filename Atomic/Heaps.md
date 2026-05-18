@@ -1,5 +1,3 @@
-# Heaps
-
 ## What is a Heap?
 A heap is a tree-based data structure with two defining properties:
 
