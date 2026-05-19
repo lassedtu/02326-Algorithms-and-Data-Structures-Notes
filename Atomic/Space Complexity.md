@@ -1,3 +1,5 @@
+# Space Complexity
+
 Space complexity measures how much memory an algorithm uses as a function of input size. It is as important as running time for understanding algorithm efficiency, especially in memory-constrained environments.
 
 ---

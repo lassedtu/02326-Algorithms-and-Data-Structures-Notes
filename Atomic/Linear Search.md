@@ -1,3 +1,5 @@
+# Linear Search
+
 Linear search checks elements one by one until it finds the target or reaches the end.
 
 ---

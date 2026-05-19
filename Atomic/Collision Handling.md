@@ -1,3 +1,5 @@
+# Collision Handling
+
 When multiple keys hash to the same position, a collision occurs. Collision handling strategies resolve this by either storing multiple items at one position or finding an alternate position.
 
 ---

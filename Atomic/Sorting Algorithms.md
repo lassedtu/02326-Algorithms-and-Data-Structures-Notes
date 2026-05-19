@@ -1,3 +1,5 @@
+# Sorting Algorithms
+
 Sorting algorithms reorder elements so the output follows a chosen order (usually nondecreasing).
 
 Different sorting methods trade off simplicity, speed, memory usage, and stability.

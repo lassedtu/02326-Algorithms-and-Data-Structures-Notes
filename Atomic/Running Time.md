@@ -1,3 +1,5 @@
+# Running Time
+
 Running time measures how many basic operations an algorithm performs as a function of input size. Understanding running time is essential for predicting performance and choosing between algorithms.
 
 ---

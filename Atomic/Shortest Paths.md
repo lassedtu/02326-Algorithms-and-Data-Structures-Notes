@@ -1,3 +1,5 @@
+# Shortest Paths
+
 ## What are Shortest Paths?
 Given a directed, weighted graph $G=(V,E)$ and a source vertex $s$, the **shortest path problem** aims to find the path with the minimum total weight (or length) from $s$ to all other vertices in $G$.
 

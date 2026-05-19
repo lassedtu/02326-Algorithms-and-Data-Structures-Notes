@@ -1,3 +1,5 @@
+# Searching Algorithms
+
 Searching algorithms determine whether a target value exists in a collection and, in many variants, where it is located.
 
 A search method is a strategy for reducing uncertainty about a target's position.

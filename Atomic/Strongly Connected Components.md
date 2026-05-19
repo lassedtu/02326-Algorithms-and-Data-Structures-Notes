@@ -1,3 +1,5 @@
+# Strongly Connected Components
+
 A strongly connected component (SCC) of a directed graph is a maximal subset of vertices such that there is a path from every vertex to every other vertex in the subset.
 
 ---

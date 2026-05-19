@@ -1,3 +1,5 @@
+# Insertion Sort
+
 Insertion sort builds a sorted prefix of the array one element at a time.
 
 ---

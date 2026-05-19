@@ -1,3 +1,5 @@
+# Binary Search Trees
+
 A binary search tree (BST) is a [[Binary Search|binary tree]] with the **search tree property**: for every node, all values in the left subtree are smaller, and all values in the right subtree are larger.
 
 ---

@@ -1,3 +1,5 @@
+# Linked Lists
+
 A linked list is a data structure where elements (nodes) are connected via explicit pointers (or references) rather than stored in contiguous memory.
 
 ---

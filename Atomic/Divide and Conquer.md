@@ -1,3 +1,5 @@
+# Divide and Conquer
+
 Divide and conquer is a design principle: solve a problem by splitting it into smaller subproblems, solving them recursively, and combining their solutions.
 
 ---

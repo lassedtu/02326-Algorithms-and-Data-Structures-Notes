@@ -1,3 +1,5 @@
+# Union Find
+
 ## What is Union Find?
 Union Find (also called Disjoint Set Union, DSU) maintains a dynamic family of disjoint sets over elements $\{0,1,\ldots,n-1\}$.
 

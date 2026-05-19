@@ -1,3 +1,5 @@
+# Graphs
+
 ## What is a Graph?
 A graph is a mathematical and algorithmic model for representing relationships between objects. We write a graph as $G=(V,E)$, where $V$ is the set of vertices (or nodes) and $E$ is the set of edges connecting pairs of vertices.
 

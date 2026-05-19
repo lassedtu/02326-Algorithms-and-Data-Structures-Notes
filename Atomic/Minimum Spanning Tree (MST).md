@@ -1,3 +1,5 @@
+# Minimum Spanning Tree (MST)
+
 ## What is a Minimum Spanning Tree?
 In a [[Weighted Graph]] $G$, each edge $e$ has an associated weight $w(e)$. 
 

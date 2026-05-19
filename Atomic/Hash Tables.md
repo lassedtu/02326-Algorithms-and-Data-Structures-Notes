@@ -1,3 +1,5 @@
+# Hash Tables
+
 A hash table is a data structure that implements a dictionary: it supports fast SEARCH, INSERT, and DELETE operations by mapping keys to values using a hash function.
 
 ---

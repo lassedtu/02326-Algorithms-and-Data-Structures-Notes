@@ -1,3 +1,5 @@
+# Topological Sorting
+
 Topological sorting is the problem of arranging vertices of a directed acyclic graph (DAG) in a linear order such that for every directed edge $(u, v)$, vertex $u$ comes before $v$ in the order.
 
 ---

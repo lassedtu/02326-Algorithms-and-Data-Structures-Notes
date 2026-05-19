@@ -1,3 +1,5 @@
+# Priority Queues
+
 ## What Is a Priority Queue?
 A priority queue maintains a dynamic set $S$ of elements, where each element has:
 - a key (priority), `x.key`

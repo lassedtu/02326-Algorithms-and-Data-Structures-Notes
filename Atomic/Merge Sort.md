@@ -1,3 +1,5 @@
+# Merge Sort
+
 Merge sort is a [[Divide and Conquer]] sorting algorithm that recursively sorts halves and merges them.
 
 ---

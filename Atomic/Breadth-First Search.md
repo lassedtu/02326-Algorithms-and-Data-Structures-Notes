@@ -1,3 +1,5 @@
+# Breadth-First Search
+
 Breadth-First Search (BFS) is a graph traversal algorithm that explores vertices in layers: all vertices at distance $k$ are visited before any vertex at distance $k+1$.
 
 ---

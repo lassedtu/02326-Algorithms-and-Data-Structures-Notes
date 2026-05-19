@@ -1,3 +1,5 @@
+# Dijkstra's Algorithm
+
 Dijkstra's algorithm is a greedy algorithm used to find the shortest paths from a single source vertex to all other vertices in a directed, weighted graph where all edge weights are non-negative.
 
 ### Goal

@@ -1,3 +1,5 @@
+# Recurrence Relations
+
 Recurrence relations describe the running time of recursive algorithms by expressing $T(n)$ in terms of smaller inputs.
 
 ---

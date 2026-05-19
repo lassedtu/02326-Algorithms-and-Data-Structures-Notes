@@ -1,3 +1,5 @@
+# Queues
+
 A queue is a data structure that stores elements using First-In-First-Out (FIFO) order: the first element added is the first to be removed.
 
 ---

@@ -1,3 +1,5 @@
+# Tree Traversals
+
 Tree traversals are systematic ways to visit all nodes in a tree exactly once. The main traversals are inorder, preorder, and postorder.
 
 ---

@@ -1,3 +1,5 @@
+# Path Compression
+
 Path compression is an optimization technique used in [[Union Find|union-find]] data structures. When finding the representative of an element, compress the path by redirecting every node along the path to point directly to the root.
 
 ---

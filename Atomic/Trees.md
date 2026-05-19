@@ -1,3 +1,5 @@
+# Trees
+
 ## What is a Tree?
 A tree is a special type of graph. It consists of nodes (or vertices) connected by edges, and it satisfies two key structural properties:
 

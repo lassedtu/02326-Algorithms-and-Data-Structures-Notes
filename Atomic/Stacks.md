@@ -1,3 +1,5 @@
+# Stacks
+
 A stack is a data structure that stores elements using Last-In-First-Out (LIFO) order: the last element added is the first to be removed.
 
 ---

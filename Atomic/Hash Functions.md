@@ -1,3 +1,5 @@
+# Hash Functions
+
 A hash function maps keys to indices in a hash table. A good hash function distributes keys uniformly across the table to minimize collisions.
 
 ---

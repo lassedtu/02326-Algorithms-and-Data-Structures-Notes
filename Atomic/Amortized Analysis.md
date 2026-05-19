@@ -1,3 +1,5 @@
+# Amortized Analysis
+
 Amortized analysis studies the average cost per operation over a sequence of operations, even when some individual operations are expensive.
 
 ---

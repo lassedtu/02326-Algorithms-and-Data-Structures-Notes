@@ -1,3 +1,5 @@
+# Binary Search
+
 Binary search finds a target in a sorted array by repeatedly cutting the search interval in half.
 
 ---

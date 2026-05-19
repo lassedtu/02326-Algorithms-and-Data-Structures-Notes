@@ -1,3 +1,5 @@
+# Big-O, Big-Omega, Big-Theta
+
 Asymptotic notation compares growth rates of functions for large input sizes $n$.
 
 ---

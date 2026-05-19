@@ -1,3 +1,4 @@
+# Growth Rate Hierarchy
 
 Growth rate hierarchy ranks common complexity classes by how fast they grow as $n \to \infty$.
 

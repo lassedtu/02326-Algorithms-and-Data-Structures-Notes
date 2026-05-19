@@ -1,3 +1,5 @@
+# Shortest Paths on DAGS
+
 ## Shortest Paths on Directed Acyclic Graphs (DAGs)
 Finding shortest paths in Directed Acyclic Graphs (DAGs) can be computationally easier than in general graphs, and the algorithm even works correctly with negative edge weights (which Dijkstra's algorithm cannot handle).
 
